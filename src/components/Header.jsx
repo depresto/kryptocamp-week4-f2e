@@ -20,11 +20,11 @@ const Header = () => {
           </Link>
 
           <Link className="nav-link" to="/entry">
-            入門作業
+            基礎作業
           </Link>
 
           <Link className="nav-link" to="/erc721">
-            基礎作業
+            進階作業
           </Link>
         </nav>
       </div>
